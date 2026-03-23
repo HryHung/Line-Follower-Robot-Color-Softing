@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758867878 source:f:\.hung\study\mechatronic project\programming\algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
