@@ -16,6 +16,15 @@ This project focuses on building a line-following robot with:
 
 ---
 
+## 📌 Guide
+
+- You will need 2 esp32 devkit: 1 for robot & 1 for the controller
+- Costom PCB is not requirement, you can replace by pegboard
+- The Robot base is CNC aluminium, you can replace by other material like: mica, 3d printed,...
+- Matlab file only for PID and visual check, you guys with need to PID your DC motor before run.
+
+---
+
 ## 🧠 System Architecture
 
 ### Hardware
@@ -52,25 +61,15 @@ This project focuses on building a line-following robot with:
 - Modular hardware & software design  
 - Suitable for robotics learning and R&D  
 
----
-
-## 📂 Repository Structure
-
-```
-/firmware        → MCU code (control, sensors, PID)
-/hardware        → PCB, schematics, CAD design
-/simulation      → MATLAB / Simulink models
-/docs            → Reports and documentation
-```
 
 ---
 
 ## 🔧 Technologies
 
-- Embedded C / C++  
-- STM32 / ESP32  
+- Embedded C  
+- ESP32  
 - PWM / ADC / GPIO  
-- SolidWorks (mechanical design)  
+- SolidWorks
 - MATLAB / Simulink (modeling & control)  
 
 ---
@@ -96,17 +95,6 @@ Idle → Follow Line → Detect Load → Detect Color
 - Stopping error: ±5 mm  
 - Load capacity: ~1 kg  
 
----
 
-## 📌 Roadmap
 
-- Improve control with Fuzzy / Adaptive PID  
-- Add wireless monitoring (IoT)  
-- Upgrade to vision-based system  
-- Implement SLAM navigation (AMR level)  
 
----
-
-## 🤝 Contribution
-
-This is an R&D-oriented project. Contributions, improvements, and ideas are welcome.
