@@ -19,9 +19,9 @@ This project focuses on building a line-following robot with:
 ## 📌 Guide
 
 - You will need 2 esp32 devkit: 1 for robot & 1 for the controller
-- Costom PCB is not requirement, you can replace by pegboard
+- Custom PCB is not requirement, you can replace by pegboard
 - The Robot base is CNC aluminium, you can replace by other material like: mica, 3d printed,...
-- Matlab file only for PID and visual check, you guys with need to PID your DC motor before run.
+- Matlab file are only for PID and visual check, you guys with need to PID your DC motor before run.
 
 ---
 
