@@ -5,7 +5,7 @@ This project demonstrates practical applications of control theory, embedded sys
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project focuses on building a line-following robot with:
 
@@ -16,7 +16,7 @@ This project focuses on building a line-following robot with:
 
 ---
 
-## 📌 Guide
+##  Guide
 
 - You will need 2 esp32 devkit: 1 for robot & 1 for the controller
 - Custom PCB is not requirement, you can replace by pegboard
@@ -25,7 +25,7 @@ This project focuses on building a line-following robot with:
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ### Hardware
 
@@ -53,7 +53,7 @@ This project focuses on building a line-following robot with:
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Accurate line following (±3 mm error)  
 - Autonomous color-based sorting  
@@ -64,7 +64,7 @@ This project focuses on building a line-following robot with:
 
 ---
 
-## 🔧 Technologies
+##  Technologies
 
 - Embedded C  
 - ESP32  
@@ -74,7 +74,7 @@ This project focuses on building a line-following robot with:
 
 ---
 
-## 🧠 Control Concept
+##  Control Concept
 
 - Line position estimated using weighted sensor readings  
 - PID controller used for trajectory correction  
@@ -87,7 +87,7 @@ Idle → Follow Line → Detect Load → Detect Color
 
 ---
 
-## 📊 Specifications
+##  Specifications
 
 - Speed ≥ 0.1 m/s  
 - Line width: 26 mm  
