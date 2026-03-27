@@ -4,7 +4,7 @@ Mobile robot designed for line tracking and automatic goods sorting based on col
 This project demonstrates practical applications of control theory, embedded systems, and mechatronics design.
 
 ---
-
+ ![robot](https://github.com/user-attachments/assets/7a4f8fa3-efa5-4453-95be-1aef9d8135a1)
 ##  Overview
 
 This project focuses on building a line-following robot with:
@@ -20,7 +20,8 @@ This project focuses on building a line-following robot with:
 
 - You will need 2 esp32 devkit: 1 for robot & 1 for the controller
 - Custom PCB is not requirement, you can replace by pegboard
-- The Robot base is CNC aluminium, you can replace by other material like: mica, 3d printed,...
+- The Robot base is CNC
+aluminium, you can replace by other material like: mica, 3d printed,...
 - Matlab file are only for PID and visual check, you guys with need to PID your DC motor before run.
 
 ---
