@@ -1,4 +1,4 @@
-# Line Following Robot (Color-Based Distribution)
+# Line Following AGV Robot (Color-Based Distribution)
 
 Mobile robot designed for line tracking and automatic goods sorting based on color.  
 This project demonstrates practical applications of control theory, embedded systems, and mechatronics design.
